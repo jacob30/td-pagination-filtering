@@ -16,4 +16,4 @@
 Expected output:
 
 ![Gif may take a second to load.](https://github.com/jacob30/gh-assets/blob/main/td2c.gif "Project Demo Gif")
-_Project Demo Gif_
+_Project Demo Gif will take a second to load._
