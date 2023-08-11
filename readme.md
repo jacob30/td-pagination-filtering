@@ -15,4 +15,4 @@
 
 Expected output:
 
-![Image 1](https://github.com/jacob30/gh-assets/blob/main/td2c.gif)
+![Gif may take a second to load.](https://github.com/jacob30/gh-assets/blob/main/td2c.gif "Project Demo Gif")
