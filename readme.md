@@ -1,3 +1,7 @@
+# Data Pagination and Filtering
+
+At the time I did it this was Techdegree Project 02: Data Pagination and Filtering
+
 # Technology
 
 - Html, Css, Javascript
@@ -15,5 +19,5 @@
 
 Expected output:
 
-![Gif may take a second to load.](https://github.com/jacob30/gh-assets/blob/main/td-02.gif "Project Demo Gif")
+![Gif may take a second to load.](https://github.com/jacob30/gh-assets/blob/main/td-02.gif 'Project Demo Gif')
 _Project Demo Gif will take a second to load._
